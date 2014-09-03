@@ -1,0 +1,13 @@
+# Site settings
+title: Women in Computer Science
+email: ru_wcs@email.rutgers.edu
+description: > # this means to ignore newlines until "baseurl:"
+    blah blah blah blah blah description here blah 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wcs.rutgers.edu" # the base hostname & protocol for your site
+#twitter_username: 
+#github_username:
+facebook_username: groups/RutgersWCS/
+
+# Build settings
+markdown: kramdown

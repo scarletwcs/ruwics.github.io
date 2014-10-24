@@ -4,11 +4,50 @@ title: Opportunities
 permalink: /opportunities/
 ---
 
-### Jane Street Capital
+### Meet-ups 
 
-A company on Wall Street, is looking for new employees. They use OCaml, which is a functional programming language. So, if you're a fan of functional programming (or just looking for a job), consider applying! Their website is: janestreetcapital.com
+#### [NYC Ruby Women](http://www.meetup.com/NYC-Ruby-Women/)
+
+Meets monthly for hacks & chats and speaker talks.
+
+#### [NYC.rb](http://www.meetup.com/NYC-rb/)
+
+Meets every second Tuesday of the month for talks. Hack nights every 4th Tuesday.
+
+#### [Ladies Who Code](http://www.meetup.com/Ladies-Who-Code)
+
+Meets monthly to discuss general programming topics and offers a variety of talks throughout the year by members.
+
+#### [Women Who Code](http://www.meetup.com/Women-Who-Code-NYC/)
+
+International organization of women who are launching local chapters.
+
+#### [Hacker Hours](http://www.meetup.com/hackerhours/)
+
+Meets twice a week to help you solve your programming problems.
+
+#### [Code Crew](http://www.meetup.com/codecrewny/)
+
+Group of individuals who meet up to learn how to code together.
+
+#### [Ruby Project Night](http://www.meetup.com/ruby-project-night-nyc)
+
+Project night is a great way to meet other Ruby developers and get help with projects
+
+### On Campus
+
+#### [The Douglass-DIMACS Computing Corps](http://douglassproject.tumblr.com/computingcorps)
+
+The Douglass Project for Rutgers Women in Math, Science, and Engineering is recruiting students for a new and exciting program for first- and second-year women in computing were starting called the Douglass-DIMACS Computing Corps. This program focuses on helping women succeed in computing while providing them with the opportunity to give back to the community and practice leadership. Throughout the year, students will work with CS faculty and graduate students to design and carry out fun and interactive group activities for middle school girls to excite them about computing. Further, students who participate in this program will receive a stipend of $500 a semester! You can find out more information online. Since this in a new program, members will have the opportunity to shape their experience and the program for years to come.
+
+### Mailing lists
+
+#### [DevChix](http://www.devchix.com/)
+
+Mailing list for women in development
+
+#### [Systers.org](http://systers.org)
+
+Mailing list and support group affiliated with the Anita Borg Institute
 
 
-### The Douglass-DIMACS Computing Corps
-
-The Douglass Project for Rutgers Women in Math, Science, and Engineering is recruiting students for a new and exciting program for first- and second-year women in computing were starting called the Douglass-DIMACS Computing Corps. This program focuses on helping women succeed in computing while providing them with the opportunity to give back to the community and practice leadership. Throughout the year, students will work with CS faculty and graduate students to design and carry out fun and interactive group activities for middle school girls to excite them about computing. Further, students who participate in this program will receive a stipend of $500 a semester! You can find out more information online at their [tumblr page](http://douglassproject.tumblr.com/computingcorps). Since this in a new program, members will have the opportunity to shape their experience and the program for years to come.

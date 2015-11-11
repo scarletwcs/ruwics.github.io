@@ -6,19 +6,8 @@ permalink: /events/
 
 #### **please check the Facebook page & your email for more information and updates!!!**
 
-**1/28 6:45PM** Android Workshop with InnoviMobile
+**11/24/15** WiCS visits Google Office Event [RSVP](https://goo.gl/CiF1aY)
 
-**1/29 6PM** Netowrk Night with WCS, SWE, & Accenture
+**11/20/15** Tech Olympics with SWE/WiCS/WITI [Event Page](https://www.facebook.com/events/441653689292875/) & [RSVP](http://goo.gl/forms/zG1lQEkpN8)
 
-**2/4 6PM** Build Your Elevator Pitch with Verizon
-
-**2/5 6PM** Tech talk & Resume Review with USACS and Goldman Sachs
-
-**2/6 4PM** Beginner Coding Workshop
-
-**2/7-8** [Hackhers](hackhers.me), a hackathon for women, [register](hackhers.me/#register) here
-
-**3/2** Big Data Tech Talk with Lockheed Martin
-
-
-
+**11/10/15 6:45PM** General Interest Meeting
